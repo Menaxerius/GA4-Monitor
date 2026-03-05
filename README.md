@@ -176,7 +176,11 @@ The `.gitignore` file is configured to exclude:
 
 ## License
 
-MIT License - feel free to use this project for personal or commercial purposes.
+This project is licensed under the **Mozilla Public License 2.0 (MPL-2.0)**.
+
+**Free for commercial use with attribution. The footer credit to Pascal Roellin must remain intact.**
+
+See [LICENSE.md](LICENSE.md) for the full license text.
 
 ## Support
 
