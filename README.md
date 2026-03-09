@@ -29,7 +29,7 @@ Automated testing and monitoring for Google Analytics 4 properties.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ga4-monitor.git
+git clone https://github.com/Menaxerius/ga4-monitor.git
 cd ga4-monitor
 ```
 
